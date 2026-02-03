@@ -1,0 +1,21 @@
+black
+flake8
+isort
+loguru
+mkdocs
+pip
+pytest
+python-dotenv
+tqdm
+typer
+pathlib
+ipykernel
+ipywidgets
+numpy
+pandas
+matplotlib
+tensorflow
+keras
+tensorflow_datasets
+duckdb
+-e .

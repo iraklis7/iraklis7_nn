@@ -1,5 +1,14 @@
-# Data
-/data/
+# Project related directories
+/data/processed/mnist*
+/data/raw/mnist*
+/models/mnist*
+/reports/figures/*.png
+
+# Directories not project related
+/bin
+/etc
+/include
+/share
 
 # Notebooks
 notebooks/X*.ipynb
